@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://shijiapeng03.github.io/categories/</loc>
-<lastmod>2024-07-15T13:56:14+08:00</lastmod>
+<loc>http://localhost:4000/ShijiaPeng03/posts/bench-mark-example-show/</loc>
+<lastmod>2024-07-15T14:35:03+08:00</lastmod>
 </url>
 <url>
-<loc>https://shijiapeng03.github.io/tags/</loc>
-<lastmod>2024-07-15T13:56:14+08:00</lastmod>
+<loc>http://localhost:4000/ShijiaPeng03/categories/</loc>
+<lastmod>2024-07-15T15:22:33+08:00</lastmod>
 </url>
 <url>
-<loc>https://shijiapeng03.github.io/archives/</loc>
-<lastmod>2024-07-15T13:56:14+08:00</lastmod>
+<loc>http://localhost:4000/ShijiaPeng03/tags/</loc>
+<lastmod>2024-07-15T15:22:33+08:00</lastmod>
 </url>
 <url>
-<loc>https://shijiapeng03.github.io/about/</loc>
-<lastmod>2024-07-15T13:56:14+08:00</lastmod>
+<loc>http://localhost:4000/ShijiaPeng03/archives/</loc>
+<lastmod>2024-07-15T15:22:33+08:00</lastmod>
 </url>
 <url>
-<loc>https://shijiapeng03.github.io/</loc>
+<loc>http://localhost:4000/ShijiaPeng03/about/</loc>
+<lastmod>2024-07-15T15:22:33+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ShijiaPeng03/</loc>
 </url>
 </urlset>

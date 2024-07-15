@@ -1,22 +1,140 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://shijiapeng03.github.io/</id>
+  <id>http://localhost:4000/ShijiaPeng03/</id>
   <title>彭时佳 ShijiaPeng</title>
   <subtitle>Include my self introduction, project introduction, and work presentation</subtitle>
-  <updated>2024-07-15T13:56:14+08:00</updated>
+  <updated>2024-07-15T15:22:33+08:00</updated>
   <author>
     <name>Shijia Peng</name>
-    <uri>https://shijiapeng03.github.io/</uri>
+    <uri>http://localhost:4000/ShijiaPeng03/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://shijiapeng03.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/ShijiaPeng03/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://shijiapeng03.github.io/"/>
+    href="http://localhost:4000/ShijiaPeng03/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 Shijia Peng </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/ShijiaPeng03/assets/img/favicons/favicon.ico</icon>
+  <logo>/ShijiaPeng03/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>hello world</title>
+    <link href="http://localhost:4000/ShijiaPeng03/posts/bench-mark-example-show/" rel="alternate" type="text/html" title="hello world" />
+    <published>2024-07-15T14:05:00+08:00</published>
+  
+    <updated>2024-07-15T14:35:03+08:00</updated>
+  
+    <id>http://localhost:4000/ShijiaPeng03/posts/bench-mark-example-show/</id>
+    <content src="http://localhost:4000/ShijiaPeng03/posts/bench-mark-example-show/" />
+    <author>
+      <name>Shijia Peng</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Task1 将水杯移至杯垫（单臂，抓边缘）
+
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+
+Task2 将水杯（装有橙汁）移至杯垫（单臂，抓中间）
+
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+
+Task3 左手拿起蓝色水瓶，右手拿起红色水瓶（双臂）
+
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+
+
+  
+
+
+Task4 锤子锤击标记点（单臂tool-use）
+
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+
+Task5 调整刷子姿势
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+
+Task6 左手从桌面左侧拿锤子转交给右手并放置到桌面右侧（双臂）
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+
+Task7 开柜门（单臂，m...</summary>
+
+  </entry>
 
 </feed>
 
