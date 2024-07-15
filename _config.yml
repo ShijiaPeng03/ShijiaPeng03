@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My personal website # the main title
+title: 彭时佳 ShijiaPeng # the main title
 
 tagline: welcom to my personal website # it will display as the sub-title
 
@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://shijiapeng03.github.io/ShijiaPeng03/"
+url: "https://shijiapeng03.github.io/ShijiaPeng03"
 
 github:
   username: ShijiaPeng03 # change to your github username
@@ -87,7 +87,7 @@ pageviews:
 #     dark   - Use the dark color scheme
 #
 theme_mode: # [light | dark]
-  dark
+  light
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
