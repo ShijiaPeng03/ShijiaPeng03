@@ -20,12 +20,12 @@ pin: false
 <div class="video-container">
   <!-- Top camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/pick_empty_cup_top.mp4" type="video/mp4">
+    <source src="/_data/vedio/pick_empty_cup_top.mp4" type="video/mp4">
   </video>
 
   <!-- Left camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/pick_empty_cup_left.mp4" type="video/mp4">
+    <source src="/_data/vedio/pick_empty_cup_left.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -34,12 +34,12 @@ pin: false
 <div class="video-container">
   <!-- Top camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/pick_cup_with_liquid_top.mp4" type="video/mp4">
+    <source src="/_data/vedio/pick_cup_with_liquid_top.mp4" type="video/mp4">
   </video>
 
   <!-- Left camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/pick_cup_with_liquid_left.mp4" type="video/mp4">
+    <source src="/_data/vedio/pick_cup_with_liquid_left.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -47,17 +47,17 @@ pin: false
 <div class="video-container">
   <!-- Top camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/pick_bottle_top.mp4" type="video/mp4">
+    <source src="/_data/vedio/pick_bottle_top.mp4" type="video/mp4">
   </video>
 
   <!-- Left camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/pick_bottle_left.mp4" type="video/mp4">
+    <source src="/_data/vedio/pick_bottle_left.mp4" type="video/mp4">
   </video>
 
   <!-- Right camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/pick_bottle_right.mp4" type="video/mp4">
+    <source src="/_data/vedio/pick_bottle_right.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -66,12 +66,12 @@ pin: false
 <div class="video-container">
   <!-- Top camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/hammer_beat_target_top.mp4" type="video/mp4">
+    <source src="/_data/vedio/hammer_beat_target_top.mp4" type="video/mp4">
   </video>
 
   <!-- Left camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/hammer_beat_target_left.mp4" type="video/mp4">
+    <source src="/_data/vedio/hammer_beat_target_left.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -80,17 +80,17 @@ pin: false
 <div class="video-container">
   <!-- Top camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/move_brush_top.mp4" type="video/mp4">
+    <source src="/_data/vedio/move_brush_top.mp4" type="video/mp4">
   </video>
 
   <!-- Left camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/move_brush_left.mp4" type="video/mp4">
+    <source src="/_data/vedio/move_brush_left.mp4" type="video/mp4">
   </video>
 
   <!-- Right camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/move_brush_right.mp4" type="video/mp4">
+    <source src="/_data/vedio/move_brush_right.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -98,17 +98,17 @@ pin: false
 <div class="video-container">
   <!-- Top camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/pick_hammer_top.mp4" type="video/mp4">
+    <source src="/_data/vedio/pick_hammer_top.mp4" type="video/mp4">
   </video>
 
   <!-- Left camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/pick_hammer_left.mp4" type="video/mp4">
+    <source src="/_data/vedio/pick_hammer_left.mp4" type="video/mp4">
   </video>
 
   <!-- Right camera -->
   <video width="500" height="250" controls autoplay>
-    <source src="../_data/vedio/pick_hammer_right.mp4" type="video/mp4">
+    <source src="/_data/vedio/pick_hammer_right.mp4" type="video/mp4">
   </video>
 </div>
 
