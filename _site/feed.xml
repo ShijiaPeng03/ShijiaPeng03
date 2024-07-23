@@ -4,7 +4,7 @@
   <id>http://localhost:4000/ShijiaPeng03/</id>
   <title>彭时佳 ShijiaPeng</title>
   <subtitle>Include my self introduction, project introduction, and work presentation</subtitle>
-  <updated>2024-07-23T12:32:21+08:00</updated>
+  <updated>2024-07-23T13:26:27+08:00</updated>
   <author>
     <name>Shijia Peng</name>
     <uri>http://localhost:4000/ShijiaPeng03/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/ShijiaPeng03/posts/bench-mark-digital-actor/" rel="alternate" type="text/html" title="Benchmark digital actor" />
     <published>2024-07-15T14:05:00+08:00</published>
   
-    <updated>2024-07-23T11:49:55+08:00</updated>
+    <updated>2024-07-23T12:36:03+08:00</updated>
   
     <id>http://localhost:4000/ShijiaPeng03/posts/bench-mark-digital-actor/</id>
     <content src="http://localhost:4000/ShijiaPeng03/posts/bench-mark-digital-actor/" />
@@ -191,6 +191,66 @@ Task6 左手从桌面左侧拿锤子转交给右手并放置到桌面右侧（�
 
 
 Task7 开柜门（单臂，m...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>简历</title>
+    <link href="http://localhost:4000/ShijiaPeng03/posts/My-curriculum-vitae/" rel="alternate" type="text/html" title="简历" />
+    <published>2024-06-15T14:05:00+08:00</published>
+  
+    <updated>2024-06-15T14:05:00+08:00</updated>
+  
+    <id>http://localhost:4000/ShijiaPeng03/posts/My-curriculum-vitae/</id>
+    <content src="http://localhost:4000/ShijiaPeng03/posts/My-curriculum-vitae/" />
+    <author>
+      <name>Shijia Peng</name>
+    </author>
+
+  
+    
+  
+
+  <summary>彭时佳
+
+
+
+  
+    
+      
+        电话:(+86)18125965001
+      
+      
+        邮箱: jiagedainifei@gmail.com
+      
+      
+        微信: 18125965001
+      
+      
+        github: https://github.com/ShijiaPeng03
+      
+    
+  
+
+
+教育经历
+
+深圳大学         2021年09月 - 2025年06月
+
+本科 机械设计制造及其自动化
+
+【英语水平】通过CET-4考试。
+
+【研究方向】专注于嵌入式软件、SLAM、自动驾驶和机器人算法的部署工作，具备丰富的经验和技能。
+
+实习/项目经历
+
+
+  
+    
+      松灵机器人（深圳）
+      机器人算法工程师, 2024.06...</summary>
 
   </entry>
 

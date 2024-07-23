@@ -6,7 +6,6 @@ tags: []
 pin: false
 ---
 
-
 <style>
   .video-container {
     display: flex;
