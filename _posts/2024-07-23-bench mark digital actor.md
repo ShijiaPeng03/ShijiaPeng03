@@ -12,17 +12,17 @@ pin: false
 工作量：每个类别不少于10个同类型的模型，example：饮料类：【冰红茶、雪碧、可乐、阿萨姆奶茶.........】
 
 sapien模板：
-！[Alt text](/posts/image/4.jpg)
+！[Alt text](../image/4.jpg)
 
 ## 数字资产生成接口
 
 https://hyperhuman.deemos.com/rodin
-！[Alt text](/posts/image/1.jpg)
+！[Alt text](../image/1.jpg)
 
 ## 生成方法
 
 自行拍摄照片或者网上搜索作为Input，输出obj模型和png贴图
-！[Alt text](/posts/image/2.jpg)
+！[Alt text](../image/2.jpg)
 
 ## 工作任务
 
