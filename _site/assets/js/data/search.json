@@ -1,7 +1,24 @@
 [
   
   {
-    "title": "hello world",
+    "title": "Benchmark digital actor",
+    "url": "/ShijiaPeng03/posts/bench-mark-digital-actor/",
+    "categories": "",
+    "tags": "",
+    "date": "2024-07-15 14:05:00 +0800",
+    
+
+
+
+
+
+    
+    "snippet": "benchmark 数字资产生成目的：构建数字资产仓库，作为ARIO Benchmark平台的数字资产护城河方法：使用HyperHuman大模型生成obj格式的模型，和贴图文件工作量：每个类别不少于10个同类型的模型，example：饮料类：【冰红茶、雪碧、可乐、阿萨姆奶茶………】sapien模板：数字资产生成接口https://hyperhuman.deemos.com/rodin生成方法...",
+    "content": "benchmark 数字资产生成目的：构建数字资产仓库，作为ARIO Benchmark平台的数字资产护城河方法：使用HyperHuman大模型生成obj格式的模型，和贴图文件工作量：每个类别不少于10个同类型的模型，example：饮料类：【冰红茶、雪碧、可乐、阿萨姆奶茶………】sapien模板：数字资产生成接口https://hyperhuman.deemos.com/rodin生成方法自行拍摄照片或者网上搜索作为Input，输出obj模型和png贴图工作任务25个model每天1.饮料类可乐、雪碧、冰红茶2.马克杯类3.锤子4.螺丝刀5.碗6.碟子7.带液体的杯子"
+  },
+  
+  {
+    "title": "benchmark example",
     "url": "/ShijiaPeng03/posts/bench-mark-example-show/",
     "categories": "",
     "tags": "",
