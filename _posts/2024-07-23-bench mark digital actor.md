@@ -10,17 +10,19 @@ pin: false
 目的：构建数字资产仓库，作为ARIO Benchmark平台的数字资产护城河
 方法：使用HyperHuman大模型生成obj格式的模型，和贴图文件
 工作量：每个类别不少于10个同类型的模型，example：饮料类：【冰红茶、雪碧、可乐、阿萨姆奶茶.........】
-！[Alt text](../image/4.png)
+
+sapien模板：
+！[Alt text](/posts/image/4.jpg)
 
 ## 数字资产生成接口
 
 https://hyperhuman.deemos.com/rodin
-！[Alt text](../image/1.png)
+！[Alt text](/posts/image/1.jpg)
 
 ## 生成方法
 
 自行拍摄照片或者网上搜索作为Input，输出obj模型和png贴图
-！[Alt text](../image/2.png)
+！[Alt text](/posts/image/2.jpg)
 
 ## 工作任务
 
