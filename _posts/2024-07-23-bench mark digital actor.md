@@ -26,9 +26,9 @@ https://hyperhuman.deemos.com/rodin
 自行拍摄照片或者网上搜索作为Input，输出obj模型和png贴图
 
 <img src="posts/image/2.jpg" alt="Work Example">
-## 工作任务
 
-25个model每天
+## 工作任务  (25个model每天)
+
 
 ### 1.饮料类
 可乐、雪碧、冰红茶
