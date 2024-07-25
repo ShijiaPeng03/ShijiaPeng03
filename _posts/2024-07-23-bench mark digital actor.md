@@ -2,7 +2,7 @@
 title: Benchmark digital actor 
 date: 2024-07-15 14:05:00 +0800
 categories: []
-tags: []
+tags: [ARIO]
 pin: false
 ---
 

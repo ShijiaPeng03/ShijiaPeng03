@@ -4,7 +4,7 @@
   <id>http://localhost:4000/ShijiaPeng03/</id>
   <title>彭时佳 ShijiaPeng</title>
   <subtitle>Include my self introduction, project introduction, and work presentation</subtitle>
-  <updated>2024-07-23T13:26:27+08:00</updated>
+  <updated>2024-07-25T18:32:09+08:00</updated>
   <author>
     <name>Shijia Peng</name>
     <uri>http://localhost:4000/ShijiaPeng03/</uri>
@@ -17,6 +17,44 @@
   <icon>/ShijiaPeng03/assets/img/favicons/favicon.ico</icon>
   <logo>/ShijiaPeng03/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Git study</title>
+    <link href="http://localhost:4000/ShijiaPeng03/posts/Git-study/" rel="alternate" type="text/html" title="Git study" />
+    <published>2024-07-15T14:05:00+08:00</published>
+  
+    <updated>2024-07-15T14:05:00+08:00</updated>
+  
+    <id>http://localhost:4000/ShijiaPeng03/posts/Git-study/</id>
+    <content src="http://localhost:4000/ShijiaPeng03/posts/Git-study/" />
+    <author>
+      <name>Shijia Peng</name>
+    </author>
+
+  
+    
+  
+
+  <summary>abstract
+
+
+  如何安装（Windows、Ubuntu）
+
+
+introduction
+
+Git 是一种分布式版本控制系统，用于管理软件项目的源代码。它是由 Linux 之父 Linus Torvalds 开发的，并已经成为了现代软件开发领域中最流行的版本控制系统之一。
+
+使用 Git 可以追踪代码的历史修改记录，方便团队协作、代码共享和代码重构。Git 的基本工作流程如下：
+
+
+  在开始编写代码之前，首先需要创建一个 Git 仓库（repository），用于存储代码和版本历史记录。
+  在编写代码时，可以通过 git add 命令将更改的文件添加到 Git 的暂存区（staging area）中。
+  通过 git commit 命令将暂存区中的更改提交到 Git 仓库中，并生成一个新的版本号（commit hash）。
+  如果需要撤销某个提交，可以使用 git r...</summary>
+
+  </entry>
 
   
   <entry>
@@ -82,7 +120,7 @@ https://hyperhuman.deemos.com/rodin
     <link href="http://localhost:4000/ShijiaPeng03/posts/bench-mark-example-show/" rel="alternate" type="text/html" title="benchmark example" />
     <published>2024-07-15T14:05:00+08:00</published>
   
-    <updated>2024-07-23T09:49:05+08:00</updated>
+    <updated>2024-07-23T13:27:33+08:00</updated>
   
     <id>http://localhost:4000/ShijiaPeng03/posts/bench-mark-example-show/</id>
     <content src="http://localhost:4000/ShijiaPeng03/posts/bench-mark-example-show/" />
